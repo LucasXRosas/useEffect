@@ -40,7 +40,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    minHeight: '100vh' as any, // Garante 100% da altura da tela no navegador
+    minHeight: '100vh' as any,
     backgroundColor: '#F2F2F7',
     padding: 20,
     alignItems: 'center',
